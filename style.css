@@ -116,5 +116,13 @@ a {
 
 
 
-@media (pointer:none), (pointer:coarse) {}
+@media (pointer:none), (pointer:coarse) {
+  body {
+    font-size: 30px;
+  }
+
+  .bild {
+    width: 80%;
+  }
+}
 
