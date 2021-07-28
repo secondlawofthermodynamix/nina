@@ -109,9 +109,17 @@ a {
   width: 50%;
 }
 
+.pics {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
+
 
 .bild {
   width: 300px;
+  padding: 50px;
 }
 
 
